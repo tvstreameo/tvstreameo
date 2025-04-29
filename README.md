@@ -33,4 +33,4 @@
 ![Git](https://skillicons.dev/icons?i=git)
 
 ## Github stats :
-![Adam x Mat GitHub stats](https://github-readme-stats.vercel.app/api?username=streameotv&show_icons=true&theme=radical)
+![Adam x Mat GitHub stats](https://github-readme-stats.vercel.app/api?username=tvstreameo&show_icons=true&theme=radical)
